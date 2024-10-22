@@ -1,1 +1,1 @@
-simple to do app using only local storage to save user input
+just a local storage to-do app to practice and have fun with local storage manipulation
